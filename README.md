@@ -1,7 +1,7 @@
 backbone-library-tutorial
 =========================
 
-Backbone.js library tutorial from the Addy Osmani book.
+Backbone.js library tutorial app from the Addy Osmani book.
 
 This is a basic Library where one can add books, remove books,
 and update books.
